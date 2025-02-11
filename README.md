@@ -1,3 +1,3 @@
 A 2D game made by myself. Pending project...
 
-Current progess demo : 
+Current progess demo : https://www.youtube.com/watch?v=6cQI1_r-fiI
